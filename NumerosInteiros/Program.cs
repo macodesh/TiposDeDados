@@ -9,7 +9,7 @@ int valor3 = -214783647;
 uint valor4 = 214783647;
 long valor5 = -2147836479845670;
 
-const ulong Valor6 = 2147836479845670;
+const ulong VALOR6 = 2147836479845670;
 
 short valor7 = -10000;
 ushort valor8 = 10000;
@@ -23,7 +23,7 @@ Console.WriteLine("sbyte: " + valor2);
 Console.WriteLine("int: " + valor3);
 Console.WriteLine("uint: " + valor4);
 Console.WriteLine("long: " + valor5);
-Console.WriteLine("ulong: " + Valor6);
+Console.WriteLine("ulong: " + VALOR6);
 Console.WriteLine("short: " + valor7);
 Console.WriteLine("ushort: " + valor8);
 Console.WriteLine($"Números inteiros: {valor9}, {valor10}");
